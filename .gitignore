@@ -13,5 +13,4 @@ results_debug/
 **/**/.ipynb_checkpoints
 **/**/**/.ipynb_checkpoints
 .ipynb_checkpoints
-source/admin/local.py
 gs:/
